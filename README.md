@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhuvanbhoge
-- I’m interested in Artificial Inteliigence and Data science
+- I’m interested in Software development 
 - 🌱 I’m currently pursuing Mca
 -  I’m looking to collaborate on some great projects
 
