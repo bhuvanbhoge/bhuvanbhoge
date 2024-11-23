@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **CatusCrochet(eCommerce website)**
 
-- 🌱 I’m currently learning **React, Nextjs, Azure, Nodejs,**
+- 🌱 I’m currently learning **React, Nextjs, SpringBoot , Nodejs,**
 
-- 💬 Ask me about **Java, Python, Data analysis**
+- 💬 Ask me about **Java, Azure, Python, Data analysis**
 
 - 📫 How to reach me **bhuvan822002@gmail.com**
 
