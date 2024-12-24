@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Bhoge</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **CatusCrochet(eCommerce website)**
+- 🔭 I’m currently working on **JAVA AND SPRING**
 
-- 🌱 I’m currently learning **React, Nextjs, SpringBoot , Nodejs,**
+- 🌱 I’m currently learning **React, Nextjs, Spring Boot, Nodejs,**
 
 - 💬 Ask me about **Java, Azure, Python, Data analysis**
 
