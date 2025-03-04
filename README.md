@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Bhoge</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **JAVA AND SPRING**
+- 🔭 I’m currently working on **JAVA AND SPRING BOOT**
 
-- 🌱 I’m currently learning **React, Nextjs, Spring Boot, Nodejs,**
+- 🌱 I’m currently learning **React, Nextjs, Nodejs,**
 
-- 💬 Ask me about **Java, Azure, Python, Data analysis**
+- 💬 Ask me about **Java, Azure, Hibernate, JDBC, Spring, Python**
 
 - 📫 How to reach me **bhuvan822002@gmail.com**
 
