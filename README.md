@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Bhoge</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer (Java, Js & Salesforce developer)from India</h3>
 
-- 🔭 I’m currently working on **JAVA AND SPRING BOOT**
+- 🔭 I’m currently working on **JAVA, SALESFORCE ,SPRING BOOT**
 
-- 🌱 I’m currently learning **React, Nextjs, Nodejs,**
+- 🌱 I’m currently learning **LWC, React, Nodejs,**
 
-- 💬 Ask me about **Java, Azure, Hibernate, JDBC, Spring, Python**
+- 💬 Ask me about **Java, Salesforce, Apex, Azure, Hibernate, JDBC, Spring**
 
 - 📫 How to reach me **bhuvan822002@gmail.com**
 
